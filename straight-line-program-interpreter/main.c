@@ -1,4 +1,4 @@
-typedef const char *string;
+#include "utils.h"
 typedef struct Stm_ *Stm;
 typedef struct Exp_ *Exp;
 typedef struct ExpList_ *ExpList;
